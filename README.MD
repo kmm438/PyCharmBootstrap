@@ -3,3 +3,6 @@ This project is a homework assignment to teach how to get Pycmar setup with Dock
 
 # Postman Screenshot
 ![postman request output](screenshots/postman.png)
+
+# SQL Data Screenshot
+![pycharm data query](screenshots/queriesdata.png)
