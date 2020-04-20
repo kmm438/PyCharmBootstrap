@@ -1,5 +1,11 @@
 # Project Description
-This project is a homework assignment to teach how to get Pycmar setup with Docker, Flask, MySQL, and Postman
+This project gets bootstrap working with everything from the previous week. 
+
+# Flask running
+![flask running](screenshots/flask.png)
+
+# Bootstrap table
+![bootstrap table](screenshots/table.png)
 
 # Postman Screenshot
 ![postman request output](screenshots/postman.png)
